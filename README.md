@@ -56,7 +56,7 @@ Make sure there is exactly *one* `S` and `G`.
 
 | Initial Grid | Path Planning | Final State |
 |:------------:|:-------------:|:-----------:|
-| ![initial](output/Grid_layout.png) | ![path](output/pathfinding.png) | ![final](output/final.png) |
+| ![initial](Grid_layout.png) | ![path](pathfinding.png) | ![final](final.png) |
 
 You can save screenshots with:
 
